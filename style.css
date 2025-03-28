@@ -1,0 +1,20 @@
+img{
+    height: 290px;
+    width: 290px;
+    border-radius: 50%;}
+
+ul{
+    display: flex;
+    list-style: none;
+    gap:30px;
+    border-radius: 50%;
+
+}
+header{
+    display: flex;
+    background-color: rgb(218, 38, 38);
+}
+a{
+    background-color: cadetblue;
+    
+}
